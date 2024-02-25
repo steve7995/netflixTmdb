@@ -24,3 +24,9 @@ dist-ssr
 *.sln
 *.sw?
 
+*.firebase
+*.eslint.cjs
+.firebasesrc
+.firebase.json
+tailwind.config.json
+vite.config.js
